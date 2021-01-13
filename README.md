@@ -1,2 +1,5 @@
 # eosce_git_vs_code
-/*Prueba de commit*/
+comandos incorporados
+npm init
+instalación lite-server
+creación script "dev"
